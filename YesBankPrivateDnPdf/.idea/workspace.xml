@@ -1,0 +1,1344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx" line="213" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d2c2e1f-b1b0-456a-80c3-7ddfa7b03cf2" name="Default" comment="" />
+    <ignored path="HTMLBills.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="HTMLBills" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="app.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-4.576923">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printPrivate.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/printPrivate.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="376" column="47" selection-start-line="376" selection-start-column="47" selection-end-line="376" selection-end-column="47" />
+              <folding>
+                <element signature="e#4285#5197#0" expanded="false" />
+                <element signature="e#10087#13367#0" expanded="false" />
+                <element signature="e#12584#12709#0" expanded="false" />
+                <marker date="1533620990107" expanded="true" signature="1209:1272" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1319:1429" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1444:1485" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1509:1550" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1593:1652" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1683:1724" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1771:1796" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1836:1872" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1899:1951" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1899:1959" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="1899:1962" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="2018:2070" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="2122:2192" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="2239:2291" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="14929:14992" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15039:15149" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15164:15205" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15229:15270" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15309:15367" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15398:15439" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15486:15511" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15551:15587" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15614:15666" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15711:15763" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15822:15892" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="15939:15991" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="16369:16432" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="16479:16589" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="16604:16645" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="16685:16726" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="16770:16811" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="16857:16898" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="16971:16996" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17036:17072" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17099:17151" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17206:17258" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17313:17365" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17418:17470" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17709:17798" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17851:17922" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="17969:17992" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="110879:110904" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="110879:110935" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="110990:111001" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="110990:111015" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146434:146504" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146542:146553" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146542:146566" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146609:146635" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146689:146700" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146750:146789" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146849:146860" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146919:146945" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="146987:147043" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="147129:147220" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="147273:147296" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="147332:147403" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="147439:147572" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="147633:147692" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148010:148032" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148068:148091" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148127:148217" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148257:148372" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148442:148500" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148539:148553" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148663:148734" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148774:148889" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="148954:149012" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="149051:149065" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="149239:149298" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="149330:149354" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="149386:149409" placeholder="..." />
+                <marker date="1533620990107" expanded="true" signature="155974:156019" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="terms.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/terms/terms.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="84" column="81" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/app.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="875" column="75" selection-start-line="875" selection-start-column="75" selection-end-line="875" selection-end-column="75" />
+              <folding>
+                <element signature="e#1033#1158#0" expanded="false" />
+                <element signature="e#5606#9061#0" expanded="false" />
+                <element signature="e#9087#10671#0" expanded="false" />
+                <element signature="e#10709#13019#0" expanded="false" />
+                <element signature="e#13059#13410#0" expanded="false" />
+                <element signature="e#13428#13641#0" expanded="false" />
+                <element signature="e#14030#14508#0" expanded="false" />
+                <element signature="n#!!block;n#constructor#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#componentDidMount#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#isPromo#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#isDuplicate#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#decodeData#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#mainContainerDyn#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#navViewDyn#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#formatCurrency#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#onPrint#0;n#App#0" expanded="false" />
+                <element signature="n#!!block;n#onCancel#0;n#App#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.25888324">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="my_reward.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/credit/my_reward.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="credit-transaction.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/credit/credit-transaction.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="277" column="110" selection-start-line="277" selection-start-column="68" selection-end-line="277" selection-end-column="110" />
+              <folding>
+                <element signature="e#531#1811#0" expanded="false" />
+                <element signature="e#1849#2252#0" expanded="false" />
+                <element signature="n#TransactionItem#0" expanded="false" />
+                <element signature="e#4051#7625#0" expanded="false" />
+                <element signature="e#12489#13961#0" expanded="false" />
+                <element signature="e#14053#15206#0" expanded="false" />
+                <element signature="e#15263#16617#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appPrivate.css" pinned="false" current-in-tab="false">
+        <entry file="file://D:/appPrivate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.2909093">
+              <caret line="641" column="17" selection-start-line="641" selection-start-column="17" selection-end-line="641" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sample_data.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sample_data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.461538">
+              <caret line="218" column="12" selection-start-line="218" selection-start-column="12" selection-end-line="218" selection-end-column="12" />
+              <folding>
+                <element signature="n#!!block;n#overViewPage#0;n#!!block;n#CUSTOMER#0;n#!!top" expanded="false" />
+                <element signature="n#!!block;n#TransactionsInfo#0;n#!!block;n#myCardPage#0;n#!!block;n#CUSTOMER#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboard-page.jsx" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="318" column="70" selection-start-line="318" selection-start-column="70" selection-end-line="318" selection-end-column="70" />
+              <folding>
+                <element signature="e#1219#2182#0" expanded="false" />
+                <element signature="e#2213#3391#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/terms/importantInformation-tab.jsx" />
+        <option value="$PROJECT_DIR$/src/terms/regulatory-tab.jsx" />
+        <option value="$PROJECT_DIR$/src/info-line.jsx" />
+        <option value="$PROJECT_DIR$/src/contact/contact-form.jsx" />
+        <option value="$PROJECT_DIR$/src/dashboard/dashboard.js" />
+        <option value="$PROJECT_DIR$/src/credit/home.jsx" />
+        <option value="$PROJECT_DIR$/src/ads.less" />
+        <option value="$PROJECT_DIR$/src/SCSS.less" />
+        <option value="$PROJECT_DIR$/../code to share/index.html" />
+        <option value="$USER_HOME$/Downloads/0005415060010000130.json" />
+        <option value="$PROJECT_DIR$/src/banners.less" />
+        <option value="$PROJECT_DIR$/src/print.js" />
+        <option value="$PROJECT_DIR$/src/app.css" />
+        <option value="$PROJECT_DIR$/../Bkp/YesBankdynImgBkp/app.css" />
+        <option value="$PROJECT_DIR$/src/content.js" />
+        <option value="$PROJECT_DIR$/src/login-form.jsx" />
+        <option value="$PROJECT_DIR$/make_demo.bat" />
+        <option value="$PROJECT_DIR$/mayank.json" />
+        <option value="$PROJECT_DIR$/../../YBL/om/1002030000000094.json" />
+        <option value="$PROJECT_DIR$/../../YBL/20-may-2016/1002030000000052.json" />
+        <option value="$PROJECT_DIR$/../../YBL/21-may-2016/om-rw/1001020000000021.xml.json" />
+        <option value="$PROJECT_DIR$/../../../demo/highChartsDemo/app/components/Main.js" />
+        <option value="$PROJECT_DIR$/../../YBL/16-June-2016/ISSUE/1002010000000245.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/src/jspdf.min.js" />
+        <option value="$PROJECT_DIR$/src/downloadPrint.js" />
+        <option value="$PROJECT_DIR$/../../../ABHI-Insurance/ABHInsurance/sample_data.json" />
+        <option value="$PROJECT_DIR$/../../../vodafone_Shubham/VodafoneMulti_ND_Om/VodafoneMulti_ND/src/manage_account/AccDetails.jsx" />
+        <option value="$PROJECT_DIR$/../../../vodafone_Shubham/VodafoneMulti_ND_Om/VodafoneMulti_ND/src/postpaid-my-services/my-services-page.jsx" />
+        <option value="$PROJECT_DIR$/../../YBL/9-feb-2017/1002030000000631.xml.json" />
+        <option value="$PROJECT_DIR$/../../../BankSohar/BankSohar/src/landing-page/land-page.jsx" />
+        <option value="$PROJECT_DIR$/src/printProsp.js" />
+        <option value="$PROJECT_DIR$/src/credit/credit-card.jsx" />
+        <option value="$PROJECT_DIR$/src/offers/offers-page.jsx" />
+        <option value="D:/appFirst.css" />
+        <option value="$PROJECT_DIR$/../../../Omantel/Omantel/src/app.less" />
+        <option value="$PROJECT_DIR$/src/credit/my_reward.jsx" />
+        <option value="$PROJECT_DIR$/../../../idea/IdeaS/IdeaSingle/postpaid-data.json" />
+        <option value="D:/app.css" />
+        <option value="$PROJECT_DIR$/src/printFirst.js" />
+        <option value="D:/appPrivate.css" />
+        <option value="$PROJECT_DIR$/sample_data_old.json" />
+        <option value="$PROJECT_DIR$/src/dashboard/dashboard-page.jsx" />
+        <option value="$PROJECT_DIR$/src/terms/terms.jsx" />
+        <option value="$PROJECT_DIR$/src/app.less" />
+        <option value="$PROJECT_DIR$/src/printPrivate.js" />
+        <option value="$PROJECT_DIR$/sample_data.json" />
+        <option value="$PROJECT_DIR$/src/credit/credit-transaction.jsx" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/app.jsx" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>bootstrap</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>build_demo</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>c3</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>css</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>default</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>devScripts</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>font-awesome</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>griddle</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>less</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>react-widgets</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>rebuild_resources</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>release</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="less" />
+              <dependency value="css" />
+              <dependency value="vendor" />
+            </dependencies>
+            <task-name>resources</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>scripts</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="bootstrap" />
+              <dependency value="font-awesome" />
+              <dependency value="react-widgets" />
+              <dependency value="griddle" />
+              <dependency value="c3" />
+            </dependencies>
+            <task-name>vendor</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTMLBills" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTMLBills" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YesBankPrivateDnPdf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTMLBills" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YesBankPrivateDnPdf" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.node_interpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="D:\facebook\YesBank\YesBankResponsive\YesBankResponsive\node_modules\gulp" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../YesBankPremia/YesBankPremia" />
+    <property name="recentsLimit" value="5" />
+    <property name="JavaScriptLanguageLevel" value="JSX" />
+    <property name="SearchEverywhereHistoryKey" value=".footerProspStyle&#9;null&#9;null&#10;ReactDom&#9;null&#9;null&#10;LoginForm&#9;null&#9;null&#10;@font&#9;null&#9;null&#10;containerPadding&#9;null&#9;null&#10;menuNav&#9;null&#9;null&#10;footerAd&#9;null&#9;null&#10;homeRcornerBorder&#9;null&#9;null&#10;contentDiv&#9;null&#9;null&#10;containerleft&#9;null&#9;null&#10;innerMainContainer&#9;null&#9;null&#10;customNavStyle&#9;null&#9;null&#10;containerMiddle&#9;null&#9;null&#10;blueTxtStyle&#9;null&#9;null&#10;custom-border-right&#9;null&#9;null&#10;blue-background&#9;null&#9;null&#10;overviewStyle&#9;null&#9;null&#10;leftRightMargin&#9;null&#9;null&#10;containerAlign&#9;null&#9;null&#10;blueTxt&#9;null&#9;null&#10;overvi&#9;null&#9;null&#10;cardBtnStyle&#9;null&#9;null&#10;navMobile&#9;null&#9;null&#10;linkAnchor&#9;null&#9;null&#10;navMobIcon&#9;null&#9;null&#10;rCornerHeaderStyle&#9;null&#9;null&#10;containerPaddingm&#9;null&#9;null&#10;underscore&#9;FILE&#9;file://D:/facebook/YesBank/YesBank/node_modules/gulp/node_modules/vinyl-fs/node_modules/glob-watcher/node_modules/gaze/node_modules/globule/node_modules/lodash/dist/lodash.underscore.js&#10;c3&#9;ACTION&#9;null&#10;crDrStyle&#9;null&#9;null&#10;login&#9;null&#9;null&#10;.monthSummaryStyle&#9;null&#9;null&#10;footerAddress&#9;null&#9;null&#10;monthSummaryStyle&#9;null&#9;null&#10;.overveiwContainerStyle&#9;null&#9;null&#10;.overviewStyle&#9;null&#9;null&#10;.innerMainContainer&#9;null&#9;null&#10;containerContactUs&#9;null&#9;null&#10;mainHeadingStyle&#9;null&#9;null&#10;containerclassleft&#9;null&#9;null&#10;cssclassname&#9;null&#9;null&#10;credit-print&#9;null&#9;null&#10;colWidthStyle&#9;null&#9;null&#10;cardHomeAd2&#9;null&#9;null&#10;button-style&#9;null&#9;null&#10;strict&#9;null&#9;null&#10;button&#9;FILE&#9;file://D:/facebook/HDFC/HDFC/node_modules/bootstrap/less/buttons.less&#10;subtabclass&#9;null&#9;null&#10;divclassforImage&#9;null&#9;null&#10;divScroll&#9;null&#9;null" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:\Program Files (x86)\nodejs\node" />
+  </component>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\facebook\YesBank\YesBank3Stmnt\YesBank3Stmnt\src" />
+      <recent name="D:\facebook\YesBank\YesBankDynImg\YesBankDynImg\src" />
+      <recent name="D:\facebook\YesBank\YesBankDynImg\src" />
+      <recent name="D:\facebook\YesBank\YesBank\node_modules" />
+      <recent name="D:\facebook\YesBank\YesBank\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gulp.js.App">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="App" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Gulp.js.App" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d2c2e1f-b1b0-456a-80c3-7ddfa7b03cf2" name="Default" comment="" />
+      <created>1450763362474</created>
+      <option name="number" value="Default" />
+      <updated>1450763362474</updated>
+      <workItem from="1450763363877" duration="1840000" />
+      <workItem from="1450766066851" duration="1800000" />
+      <workItem from="1450767965230" duration="1792000" />
+      <workItem from="1450769786778" duration="1799000" />
+      <workItem from="1450771690746" duration="1787000" />
+      <workItem from="1450773541860" duration="1815000" />
+      <workItem from="1450777872797" duration="1857000" />
+      <workItem from="1450779822935" duration="1840000" />
+      <workItem from="1450781765938" duration="2047000" />
+      <workItem from="1450783908556" duration="1281000" />
+      <workItem from="1450788696857" duration="1916000" />
+      <workItem from="1450790758914" duration="1914000" />
+      <workItem from="1450792741893" duration="1151000" />
+      <workItem from="1450850879076" duration="1772000" />
+      <workItem from="1450852786921" duration="2019000" />
+      <workItem from="1450854856595" duration="1866000" />
+      <workItem from="1450856785264" duration="1931000" />
+      <workItem from="1450858781335" duration="1489000" />
+      <workItem from="1450862670574" duration="1546000" />
+      <workItem from="1450864635514" duration="1804000" />
+      <workItem from="1450867607153" duration="1484000" />
+      <workItem from="1450869544296" duration="1587000" />
+      <workItem from="1450871424942" duration="2103000" />
+      <workItem from="1450875253968" duration="825000" />
+      <workItem from="1450877633320" duration="1450000" />
+      <workItem from="1450879646507" duration="1658000" />
+      <workItem from="1450936221907" duration="1560000" />
+      <workItem from="1450938151678" duration="1862000" />
+      <workItem from="1450940071038" duration="1926000" />
+      <workItem from="1450942077487" duration="1784000" />
+      <workItem from="1450944079611" duration="1955000" />
+      <workItem from="1450946083476" duration="2307000" />
+      <workItem from="1450950399408" duration="1720000" />
+      <workItem from="1450952343560" duration="1811000" />
+      <workItem from="1450954235054" duration="1805000" />
+      <workItem from="1450956111667" duration="1611000" />
+      <workItem from="1450958022374" duration="2130000" />
+      <workItem from="1450960436967" duration="6000" />
+      <workItem from="1451288574494" duration="2014000" />
+      <workItem from="1451293094628" duration="1852000" />
+      <workItem from="1451295072381" duration="2063000" />
+      <workItem from="1451297186654" duration="1927000" />
+      <workItem from="1451299251587" duration="2025000" />
+      <workItem from="1451303105574" duration="2164000" />
+      <workItem from="1451305344809" duration="2223000" />
+      <workItem from="1451309107300" duration="885000" />
+      <workItem from="1451369183013" duration="932000" />
+      <workItem from="1451370975771" duration="1369000" />
+      <workItem from="1451374836561" duration="1207000" />
+      <workItem from="1451376866260" duration="1787000" />
+      <workItem from="1451378754293" duration="1572000" />
+      <workItem from="1451382137368" duration="1876000" />
+      <workItem from="1451384069208" duration="1811000" />
+      <workItem from="1451386244374" duration="428000" />
+      <workItem from="1451394767099" duration="1458000" />
+      <workItem from="1451456015456" duration="1319000" />
+      <workItem from="1451457834054" duration="231000" />
+      <workItem from="1452596726991" duration="1886000" />
+      <workItem from="1453381211977" duration="2345000" />
+      <workItem from="1453443295479" duration="6392000" />
+      <workItem from="1453455737694" duration="928000" />
+      <workItem from="1453457218601" duration="4696000" />
+      <workItem from="1453870378839" duration="2532000" />
+      <workItem from="1455005167458" duration="15981000" />
+      <workItem from="1455079081440" duration="29062000" />
+      <workItem from="1455166315438" duration="1677000" />
+      <workItem from="1458032574340" duration="12394000" />
+      <workItem from="1458104019950" duration="8226000" />
+      <workItem from="1458130308629" duration="4837000" />
+      <workItem from="1458189888815" duration="24865000" />
+      <workItem from="1458277686624" duration="28322000" />
+      <workItem from="1458492868903" duration="516000" />
+      <workItem from="1458536412922" duration="23347000" />
+      <workItem from="1458623554494" duration="7468000" />
+      <workItem from="1458635660842" duration="10238000" />
+      <workItem from="1458712954441" duration="2298000" />
+      <workItem from="1458723130677" duration="14388000" />
+      <workItem from="1459152633804" duration="17142000" />
+      <workItem from="1459226993586" duration="25804000" />
+      <workItem from="1459313852612" duration="3253000" />
+      <workItem from="1459344867118" duration="1689000" />
+      <workItem from="1459400471158" duration="6519000" />
+      <workItem from="1459414786418" duration="3582000" />
+      <workItem from="1459426330369" duration="5751000" />
+      <workItem from="1459487889290" duration="24269000" />
+      <workItem from="1459585455776" duration="5094000" />
+      <workItem from="1459750579991" duration="3259000" />
+      <workItem from="1459754793639" duration="5224000" />
+      <workItem from="1459836041031" duration="8004000" />
+      <workItem from="1459953978926" duration="1932000" />
+      <workItem from="1460006019745" duration="2324000" />
+      <workItem from="1460009417024" duration="2487000" />
+      <workItem from="1460019760325" duration="5799000" />
+      <workItem from="1460098945103" duration="369000" />
+      <workItem from="1460350563089" duration="17752000" />
+      <workItem from="1460443140000" duration="30460000" />
+      <workItem from="1460528697611" duration="17071000" />
+      <workItem from="1460624049922" duration="2245000" />
+      <workItem from="1460698278762" duration="770000" />
+      <workItem from="1460715326536" duration="14441000" />
+      <workItem from="1460747433948" duration="5958000" />
+      <workItem from="1460956538638" duration="1197000" />
+      <workItem from="1461130896774" duration="24554000" />
+      <workItem from="1461216033666" duration="31201000" />
+      <workItem from="1461302421705" duration="821000" />
+      <workItem from="1461320788187" duration="9442000" />
+      <workItem from="1461500422063" duration="17896000" />
+      <workItem from="1461593090783" duration="576000" />
+      <workItem from="1461650250576" duration="8777000" />
+      <workItem from="1461664565043" duration="2502000" />
+      <workItem from="1462173094602" duration="23110000" />
+      <workItem from="1462251623602" duration="14867000" />
+      <workItem from="1462338921039" duration="10807000" />
+      <workItem from="1462425304782" duration="9088000" />
+      <workItem from="1462512169676" duration="17554000" />
+      <workItem from="1462554651042" duration="14000" />
+      <workItem from="1462554703569" duration="2981000" />
+      <workItem from="1462691820691" duration="136000" />
+      <workItem from="1462945075258" duration="9585000" />
+      <workItem from="1463058446045" duration="3591000" />
+      <workItem from="1463462137063" duration="16936000" />
+      <workItem from="1463547695357" duration="2160000" />
+      <workItem from="1463650979748" duration="3711000" />
+      <workItem from="1463722282239" duration="1316000" />
+      <workItem from="1463743802585" duration="1238000" />
+      <workItem from="1463747030800" duration="6647000" />
+      <workItem from="1463824113411" duration="7722000" />
+      <workItem from="1463979413313" duration="218000" />
+      <workItem from="1463985252594" duration="3028000" />
+      <workItem from="1464179085906" duration="6329000" />
+      <workItem from="1464239333058" duration="10420000" />
+      <workItem from="1464256262059" duration="3513000" />
+      <workItem from="1464325951332" duration="9544000" />
+      <workItem from="1464585571354" duration="215000" />
+      <workItem from="1464585934873" duration="1329000" />
+      <workItem from="1464673247524" duration="19549000" />
+      <workItem from="1464700878730" duration="599000" />
+      <workItem from="1464845196935" duration="23092000" />
+      <workItem from="1464928827422" duration="19704000" />
+      <workItem from="1465188942936" duration="14436000" />
+      <workItem from="1465275580892" duration="13945000" />
+      <workItem from="1465363184954" duration="3423000" />
+      <workItem from="1465457816514" duration="2774000" />
+      <workItem from="1465974349346" duration="5552000" />
+      <workItem from="1465997263591" duration="3689000" />
+      <workItem from="1466053048080" duration="8057000" />
+      <workItem from="1466076247192" duration="1016000" />
+      <workItem from="1466089484571" duration="1110000" />
+      <workItem from="1466143352509" duration="990000" />
+      <workItem from="1466154277668" duration="19468000" />
+      <workItem from="1466400920507" duration="71000" />
+      <workItem from="1466403738736" duration="1849000" />
+      <workItem from="1466502083816" duration="802000" />
+      <workItem from="1466660266593" duration="19588000" />
+      <workItem from="1466745317465" duration="2505000" />
+      <workItem from="1466762337271" duration="9473000" />
+      <workItem from="1466772331671" duration="1587000" />
+      <workItem from="1467003599384" duration="2273000" />
+      <workItem from="1467007330059" duration="5118000" />
+      <workItem from="1467263612823" duration="3341000" />
+      <workItem from="1467377661559" duration="1897000" />
+      <workItem from="1467609757432" duration="7778000" />
+      <workItem from="1467618583501" duration="6631000" />
+      <workItem from="1467694961387" duration="3470000" />
+      <workItem from="1467878321892" duration="7281000" />
+      <workItem from="1467969911391" duration="2014000" />
+      <workItem from="1468238532962" duration="2276000" />
+      <workItem from="1468243679482" duration="1341000" />
+      <workItem from="1468301679332" duration="10334000" />
+      <workItem from="1468565549165" duration="1539000" />
+      <workItem from="1468662536357" duration="6436000" />
+      <workItem from="1468819274180" duration="346000" />
+      <workItem from="1470808113952" duration="19444000" />
+      <workItem from="1471324502200" duration="646000" />
+      <workItem from="1471845320374" duration="3925000" />
+      <workItem from="1471930060431" duration="4598000" />
+      <workItem from="1472015543918" duration="22489000" />
+      <workItem from="1472102862743" duration="4046000" />
+      <workItem from="1472129077754" duration="5084000" />
+      <workItem from="1472184686443" duration="4028000" />
+      <workItem from="1472205124194" duration="2062000" />
+      <workItem from="1472451228198" duration="17659000" />
+      <workItem from="1472534468336" duration="1888000" />
+      <workItem from="1472540807019" duration="20057000" />
+      <workItem from="1472620454188" duration="6720000" />
+      <workItem from="1472642779038" duration="4895000" />
+      <workItem from="1472650696120" duration="1486000" />
+      <workItem from="1472707741767" duration="10846000" />
+      <workItem from="1472725285366" duration="312000" />
+      <workItem from="1472725991568" duration="1162000" />
+      <workItem from="1473340584857" duration="2068000" />
+      <workItem from="1473397859598" duration="8809000" />
+      <workItem from="1473657223909" duration="1389000" />
+      <workItem from="1473745026171" duration="16732000" />
+      <workItem from="1473830753351" duration="8644000" />
+      <workItem from="1473918583804" duration="2798000" />
+      <workItem from="1474868172881" duration="17236000" />
+      <workItem from="1474953361983" duration="16499000" />
+      <workItem from="1475039561535" duration="5106000" />
+      <workItem from="1475050476567" duration="12503000" />
+      <workItem from="1475129328082" duration="9777000" />
+      <workItem from="1475145592311" duration="6248000" />
+      <workItem from="1475212410693" duration="14231000" />
+      <workItem from="1475472325873" duration="4919000" />
+      <workItem from="1475486595724" duration="10617000" />
+      <workItem from="1475559602613" duration="17945000" />
+      <workItem from="1475646904492" duration="14646000" />
+      <workItem from="1475731134351" duration="10004000" />
+      <workItem from="1475820043200" duration="3343000" />
+      <workItem from="1476944781082" duration="3491000" />
+      <workItem from="1477388672934" duration="3596000" />
+      <workItem from="1477460141817" duration="11060000" />
+      <workItem from="1477545880994" duration="14696000" />
+      <workItem from="1477634739937" duration="6897000" />
+      <workItem from="1478175634586" duration="1900000" />
+      <workItem from="1478251343946" duration="1444000" />
+      <workItem from="1478517768747" duration="629000" />
+      <workItem from="1478587952653" duration="5782000" />
+      <workItem from="1478671311377" duration="305000" />
+      <workItem from="1479374633136" duration="1722000" />
+      <workItem from="1479981156618" duration="3066000" />
+      <workItem from="1486020898456" duration="4088000" />
+      <workItem from="1486029148290" duration="1437000" />
+      <workItem from="1486103989059" duration="17186000" />
+      <workItem from="1486635138240" duration="1631000" />
+      <workItem from="1486641155250" duration="1361000" />
+      <workItem from="1488973064953" duration="1692000" />
+      <workItem from="1491211884440" duration="10275000" />
+      <workItem from="1491284693523" duration="51000" />
+      <workItem from="1491544846197" duration="2296000" />
+      <workItem from="1491568492706" duration="754000" />
+      <workItem from="1492759796711" duration="4311000" />
+      <workItem from="1493015395364" duration="4587000" />
+      <workItem from="1493721960159" duration="900000" />
+      <workItem from="1493799593004" duration="9448000" />
+      <workItem from="1493870441978" duration="5978000" />
+      <workItem from="1493884762892" duration="2246000" />
+      <workItem from="1493899581664" duration="36000" />
+      <workItem from="1493963237783" duration="1056000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1444750000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29291454" sideWeight="0.50739956" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17633928" sideWeight="0.4926004" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27286822" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27974278" sideWeight="0.4941435" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24981739" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29291454" sideWeight="0.50739956" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39858156" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24908693" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3258427" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sample_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#overViewPage#0;n#!!block;n#CUSTOMER#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#TransactionsInfo#0;n#!!block;n#myCardPage#0;n#!!block;n#CUSTOMER#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="318" column="70" selection-start-line="318" selection-start-column="70" selection-end-line="318" selection-end-column="70" />
+          <folding>
+            <element signature="e#1219#2182#0" expanded="false" />
+            <element signature="e#2213#3391#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="292" column="21" selection-start-line="292" selection-start-column="21" selection-end-line="292" selection-end-column="21" />
+          <folding>
+            <element signature="e#1219#2182#0" expanded="false" />
+            <element signature="e#2213#3391#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react/react.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-dom/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/moment/moment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-pdf-js/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pdf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="36" selection-start-line="73" selection-start-column="36" selection-end-line="73" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/web/compatibility.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="78" selection-start-line="18" selection-start-column="78" selection-end-line="18" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/downloadPrint.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../ABHI-Insurance/ABHInsurance/sample_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="230" column="125" selection-start-line="230" selection-start-column="125" selection-end-line="230" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="179" column="74" selection-start-line="179" selection-start-column="74" selection-end-line="179" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="317" column="52" selection-start-line="317" selection-start-column="52" selection-end-line="317" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../ABHI-Insurance/files/9_Nov_2016/sample_data_guru.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="235" column="9" selection-start-line="235" selection-start-column="9" selection-end-line="235" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="194" column="18" selection-start-line="194" selection-start-column="18" selection-end-line="194" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../vodafone_Shubham/VodafoneMulti_ND_Om/VodafoneMulti_ND/66474740-20160825.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../vodafone_Shubham/VodafoneMulti_ND_Om/VodafoneMulti_ND/src/postpaid-my-services/my-services-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="218" column="64" selection-start-line="218" selection-start-column="64" selection-end-line="218" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../vodafone_Shubham/VodafoneMulti_ND_Om/VodafoneMulti_ND/src/manage_account/AccDetails.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="26" selection-start-line="48" selection-start-column="20" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../vodafone_Shubham/VodafoneMulti_ND_Om/VodafoneMulti_ND/src/postpaid-itemized/itemized.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../YBL/9-feb-2017/1002030000000631.xml.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="23" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../YBL/7-Apr-2017/1001010000057303.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../BankSohar/BankSohar/src/landing-page/land-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../BankSohar/files/Sohar.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/printProsp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33215547">
+          <caret line="70" column="8" selection-start-line="70" selection-start-column="8" selection-end-line="70" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../BankSohar/BankSohar/src/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.8909092">
+          <caret line="1260" column="24" selection-start-line="1259" selection-start-column="0" selection-end-line="1260" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../BankSohar/BankSohar/src/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="123" column="36" selection-start-line="123" selection-start-column="36" selection-end-line="123" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../BankSohar/BankSohar/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11950791">
+          <caret line="4" column="72" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/credit/credit-card.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/appFirst.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../YesBankDynImgProd/YesBankDynImgProd/src/credit/credit-card.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.31428573">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../YesBankDynImgProd/YesBankDynImgProd/src/credit/credit-transaction.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3697479">
+          <caret line="400" column="57" selection-start-line="400" selection-start-column="57" selection-end-line="400" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../YesBankDynDnPdf/YesBankDynDnPdf/src/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2727273">
+          <caret line="194" column="0" selection-start-line="194" selection-start-column="0" selection-end-line="200" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../YesBankDynDnPdf/YesBankDynDnPdf_old/src/dashboard/dashboard-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.936027">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6363637">
+          <caret line="365" column="26" selection-start-line="365" selection-start-column="26" selection-end-line="365" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/printFirst.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3989899">
+          <caret line="427" column="49" selection-start-line="427" selection-start-column="49" selection-end-line="427" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/offers/offers-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../YBL/27_oct-2017/1001040000000151.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="64" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_data_old.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9132653">
+          <caret line="205" column="1" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_demo.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.089788735">
+          <caret line="3" column="85" selection-start-line="3" selection-start-column="85" selection-end-line="3" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dashboard/dashboard-page.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="318" column="70" selection-start-line="318" selection-start-column="70" selection-end-line="318" selection-end-column="70" />
+          <folding>
+            <element signature="e#1219#2182#0" expanded="false" />
+            <element signature="e#2213#3391#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/terms/terms.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="84" column="81" selection-start-line="84" selection-start-column="81" selection-end-line="84" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/credit/my_reward.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="136" column="43" selection-start-line="136" selection-start-column="43" selection-end-line="136" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.576923">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/printPrivate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="376" column="47" selection-start-line="376" selection-start-column="47" selection-end-line="376" selection-end-column="47" />
+          <folding>
+            <element signature="e#4285#5197#0" expanded="false" />
+            <element signature="e#10087#13367#0" expanded="false" />
+            <element signature="e#12584#12709#0" expanded="false" />
+            <marker date="1533620990107" expanded="true" signature="1209:1272" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1319:1429" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1444:1485" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1509:1550" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1593:1652" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1683:1724" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1771:1796" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1836:1872" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1899:1951" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1899:1959" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="1899:1962" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="2018:2070" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="2122:2192" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="2239:2291" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="14929:14992" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15039:15149" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15164:15205" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15229:15270" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15309:15367" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15398:15439" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15486:15511" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15551:15587" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15614:15666" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15711:15763" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15822:15892" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="15939:15991" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="16369:16432" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="16479:16589" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="16604:16645" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="16685:16726" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="16770:16811" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="16857:16898" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="16971:16996" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17036:17072" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17099:17151" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17206:17258" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17313:17365" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17418:17470" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17709:17798" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17851:17922" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="17969:17992" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="110879:110904" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="110879:110935" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="110990:111001" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="110990:111015" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146434:146504" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146542:146553" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146542:146566" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146609:146635" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146689:146700" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146750:146789" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146849:146860" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146919:146945" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="146987:147043" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="147129:147220" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="147273:147296" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="147332:147403" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="147439:147572" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="147633:147692" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148010:148032" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148068:148091" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148127:148217" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148257:148372" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148442:148500" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148539:148553" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148663:148734" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148774:148889" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="148954:149012" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="149051:149065" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="149239:149298" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="149330:149354" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="149386:149409" placeholder="..." />
+            <marker date="1533620990107" expanded="true" signature="155974:156019" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sample_data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.461538">
+          <caret line="218" column="12" selection-start-line="218" selection-start-column="12" selection-end-line="218" selection-end-column="12" />
+          <folding>
+            <element signature="n#!!block;n#overViewPage#0;n#!!block;n#CUSTOMER#0;n#!!top" expanded="false" />
+            <element signature="n#!!block;n#TransactionsInfo#0;n#!!block;n#myCardPage#0;n#!!block;n#CUSTOMER#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/appPrivate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.2909093">
+          <caret line="641" column="17" selection-start-line="641" selection-start-column="17" selection-end-line="641" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/credit/credit-transaction.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="277" column="110" selection-start-line="277" selection-start-column="68" selection-end-line="277" selection-end-column="110" />
+          <folding>
+            <element signature="e#531#1811#0" expanded="false" />
+            <element signature="e#1849#2252#0" expanded="false" />
+            <element signature="n#TransactionItem#0" expanded="false" />
+            <element signature="e#4051#7625#0" expanded="false" />
+            <element signature="e#12489#13961#0" expanded="false" />
+            <element signature="e#14053#15206#0" expanded="false" />
+            <element signature="e#15263#16617#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="875" column="75" selection-start-line="875" selection-start-column="75" selection-end-line="875" selection-end-column="75" />
+          <folding>
+            <element signature="e#1033#1158#0" expanded="false" />
+            <element signature="e#5606#9061#0" expanded="false" />
+            <element signature="e#9087#10671#0" expanded="false" />
+            <element signature="e#10709#13019#0" expanded="false" />
+            <element signature="e#13059#13410#0" expanded="false" />
+            <element signature="e#13428#13641#0" expanded="false" />
+            <element signature="e#14030#14508#0" expanded="false" />
+            <element signature="n#!!block;n#constructor#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#componentDidMount#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#isPromo#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#isDuplicate#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#decodeData#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#mainContainerDyn#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#navViewDyn#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#formatCurrency#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#onPrint#0;n#App#0" expanded="false" />
+            <element signature="n#!!block;n#onCancel#0;n#App#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25888324">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

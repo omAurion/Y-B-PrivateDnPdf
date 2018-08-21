@@ -1,0 +1,248 @@
+{
+  "CUSTOMER": {
+    "overViewPage": {
+      "previousMonthSummary": {
+        "TOT_CTD_ADJ": 0,
+        "TOT_YTD_EARNED": 0,
+        "lastpaymnetRecive": "6158.35 Cr",
+        "TOT_CTD_DISB": 0,
+        "TOT_CTD_EARNED": 0,
+        "previousBalance": "27,825.72 Dr",
+        "currentPurchase": "6,145.42 Dr",
+        "currentCashAdvance": 0,
+        "cashbackEarned": 0
+      },
+      "creditCardSummary": {
+        "totalDues": 0,
+        "pastDues": 0,
+        "paymentDueDate": "05-09-2017",
+        "cashLimit": 12000,
+        "statementDate": "16-08-2017",
+        "creditLimit": 40000,
+        "minAmtDue": 5933.6,
+        "availableCashLimit": 12000,
+        "statementPeriod": "17-07-2017 To 16-08-2017",
+        "availableCreditLimit": 17014.51,
+        "cardNumber": "5318XXXXXXXX0100"
+      },
+      "summaryBanner": {
+        "link": "https://172.30.10.54/AppList/Prosperity/ad1Prosp.jpg"
+      },
+      "customerInfo": {
+        "contactNumber": "+9184XX7XXX06",
+        "emailId": "uat.clickpss@yesbank.in",
+        "name": "ANUXXXXRA",
+        "addresscity": "NEW DELHI 110030",
+        "address1": "FLAT NOXXXXXX-2",
+        "address2": "SHIVALIK YYYYYYCE",
+        "address3": "PUBLIC ZZZZZZLR",
+        "employername": ""
+      }
+    },
+    "offers": {
+      "link2": "/null",
+      "link3": "https://172.30.10.54/AppList/Common/offer3.jpg",
+      "link1": "https://172.30.10.54/AppList/Common/offer1.jpg",
+      "link3m": "https://172.30.10.54/AppList/Common/termsAndConditionImg.jpg",
+      "link1m": "https://172.30.10.54/AppList/Prosperity/menuIconProsp.jpg",
+      "link2m": "https://172.30.10.54/AppList/Common/tcImg2.jpg"
+    },
+    "myCardPage": {
+      "TransactionsInfo": {
+        "transaction": [{
+          "referenceCode":"0000034344434343",
+          "amount": 3.75,
+          "transactionType": "Cr",
+          "countrycode": "IND",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0153c",
+          "smartEmi": {},
+          "description": "DISCOUNT ON FUEL PURCH CHENNAI       IND",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR59",
+          "transactionDate": "05-07-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 673,
+          "transactionType": "Dr",
+          "countrycode": "IND",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0105c",
+          "smartEmi": {},
+          "description": "TATA STARBUCKS LIMITED NEW DELHI     DEL",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR143",
+          "transactionDate": "22-07-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 0.03,
+          "transactionType": "Cr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0251c",
+          "smartEmi": {},
+          "description": "INTEREST CREDIT ADJUSTMENT",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR153",
+          "transactionDate": "27-07-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 6154.56,
+          "transactionType": "Cr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0501c",
+          "smartEmi": {},
+          "description": "PAYMENT RECEIVED - ONLINE FUNDS TRANSFER",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR168",
+          "transactionDate": "01-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 2040.14,
+          "transactionType": "Dr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0127c",
+          "smartEmi": {},
+          "description": "EMI FOR AIRTEL PAYMENT (003/003)",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR186",
+          "transactionDate": "15-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 1404.63,
+          "transactionType": "Dr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0127c",
+          "smartEmi": {},
+          "description": "EMI FOR BATA INDIA LIMITED (003/003)",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR184",
+          "transactionDate": "15-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 1427.42,
+          "transactionType": "Dr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0127c",
+          "smartEmi": {},
+          "description": "EMI FOR ADITYA BIRLA FASHION (003/003)",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR182",
+          "transactionDate": "15-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 65.02,
+          "transactionType": "Dr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0201c",
+          "smartEmi": {},
+          "description": "FINANCE CHARGES",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR210",
+          "transactionDate": "16-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 436.29,
+          "transactionType": "Dr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0201c",
+          "smartEmi": {},
+          "description": "FINANCE CHARGES",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR209",
+          "transactionDate": "16-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 3.37,
+          "transactionType": "Cr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "0371c",
+          "smartEmi": {},
+          "description": "CASHBACK FOR EVERYTIME SPENDS",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RR204",
+          "transactionDate": "16-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 0.01,
+          "transactionType": "Cr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "227c",
+          "smartEmi": {},
+          "description": "REVERSAL OF GOODS & SERVICES TAX-GST@18%",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RS12",
+          "transactionDate": "16-08-2017"
+        }, {
+          "referenceCode":"0000034344434343",
+          "amount": 98.92,
+          "transactionType": "Dr",
+          "countrycode": "",
+          "Exchange": {},
+          "cashBackFlg": {},
+          "transactionCode": "226c",
+          "smartEmi": {},
+          "description": "GOODS & SERVICES TAX - GST @ 18%",
+          "CardHolderName": {},
+          "CardSequenceNumber": "RS11",
+          "transactionDate": "16-08-2017"
+        }]
+      },
+      "AddOnsInfo":{
+        "addOns":[
+          {
+            "addoncardnumber": "02323232332323",
+            "date":"05-07-2017",
+            "transactionDetails":"sdsdadad dadadad",
+            "transactionType":"Dr",
+            "amount":434,
+            "referenceCode":"0000034344434343"
+          },
+          {
+            "addoncardnumber": "02323232332322",
+            "date":"05-07-2017",
+            "transactionDetails":"sdsdadad dadadad",
+            "transactionType":"Dr",
+            "amount":434,
+            "referenceCode":"0000034344434343"
+          }
+        ]
+      },
+      "rewardSummary": {
+        "disbursed": 0,
+        "openingBalance": 0,
+        "earned": 0,
+        "adjusted": 3.37,
+        "closingBalance": 3.37
+      },
+      "rewardBanner": {
+        "linkm": "abcd",
+        "link": "abcd"
+      }
+    },
+    "statementType": 204,
+    "bannersImg": {
+      "logo": "https://172.30.10.54/AppList/Prosperity/YesProsp_Cashback.jpg"
+    },
+    "printpath": {}
+  }
+}

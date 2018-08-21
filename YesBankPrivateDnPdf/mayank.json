@@ -1,0 +1,158 @@
+{
+  "CUSTOMER": {
+    "offers": {
+      "link1m": " ",
+      "link3m": "",
+      "link2m": " ",
+      "link1": " ",
+      "link3": " ",
+      "link2": " "
+    },
+    "bannersImg": {
+      "logo": " "
+    },
+    "myCardPage": {
+      "TransactionsInfo": {
+        "transaction": [
+          {
+            "transactionType": "Dr",
+            "Exchange": {},
+            "amount": 835.7,
+            "CardSequenceNumber": "RF5",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "COMFORT/CITYCAB TAXI   SINGAPORE     SGP",
+            "transactionCode": 115,
+            "transactionDate": "14-04-2016",
+            "CardHolderName": {}
+          },
+          {
+            "transactionType": "",
+            "Exchange": {},
+            "amount": 0,
+            "CardSequenceNumber": "RR3",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "04/14/16         17.16  SGD",
+            "transactionCode": 96,
+            "transactionDate": "14-04-2016",
+            "CardHolderName": {}
+          },
+          {
+            "transactionType": "Dr",
+            "Exchange": {},
+            "amount": 1008.69,
+            "CardSequenceNumber": "RF10",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "COMFORT/CITYCAB TAXI   SINGAPORE     SGP",
+            "transactionCode": 115,
+            "transactionDate": "14-04-2016",
+            "CardHolderName": {}
+          },
+          {
+            "transactionType": "",
+            "Exchange": {},
+            "amount": 0,
+            "CardSequenceNumber": "RR7",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "04/14/16         20.70  SGD",
+            "transactionCode": 96,
+            "transactionDate": "14-04-2016",
+            "CardHolderName": {}
+          },
+          {
+            "transactionType": "Dr",
+            "Exchange": {},
+            "amount": 70.17,
+            "CardSequenceNumber": "RS5",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "SERVICE TAX ASSESSMENT",
+            "transactionCode": 226,
+            "transactionDate": "15-04-2016",
+            "CardHolderName": {}
+          },
+          {
+            "transactionType": "Dr",
+            "Exchange": {},
+            "amount": 483.94,
+            "CardSequenceNumber": "RS7",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "ISSUER MARKUP ASSESSMENT",
+            "transactionCode": 249,
+            "transactionDate": "15-04-2016",
+            "CardHolderName": {}
+          },
+          {
+            "transactionType": "Dr",
+            "Exchange": {},
+            "amount": 25809.97,
+            "CardSequenceNumber": "RF28",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "SENTOSA ONLINE STORE   SINGAPORE     SGP",
+            "transactionCode": 115,
+            "transactionDate": "15-04-2016",
+            "CardHolderName": {}
+          },
+          {
+            "transactionType": "",
+            "Exchange": {},
+            "amount": 0,
+            "CardSequenceNumber": "RR30",
+            "cashBackFlg": {},
+            "smartEmi": {},
+            "description": "04/15/16        527.60  SGD",
+            "transactionCode": 96,
+            "transactionDate": "15-04-2016",
+            "CardHolderName": {}
+          }
+        ]
+      },
+      "rewardSummary": {
+        "earned": 0,
+        "disbursed": 0,
+        "adjusted": 0,
+        "closingBalance": 0,
+        "openingBalance": 0
+      },
+      "rewardBanner": {
+        "linkm": "abcd",
+        "link": "abcd"
+      }
+    },
+    "statementType": 203,
+    "overViewPage": {
+      "summaryBanner": {
+        "link": " "
+      },
+      "previousMonthSummary": {
+        "currentPurchase": 3070,
+        "cashbackEarned": 0,
+        "currentCashAdvance": 0,
+        "previousBalance": 0
+      },
+      "customerInfo": {
+        "address": "303 2A Brindaban Co op HsgSociety Poonam Nagar MUMBAI400093",
+        "name": "Shailesh Upadhyay",
+        "contactNumber": 919819973570,
+        "emailId": "Shailesh.Upadhyay@yesbank.in"
+      },
+      "creditCardSummary": {
+        "statementPeriod": "19-03-2016 To 18-04-2016",
+        "paymentDueDate": "08-05-2016",
+        "minAmtDue": 2000,
+        "totalDues": 3070,
+        "cashLimit": 6000,
+        "creditLimit": 20000,
+        "statementDate": "18-04-2016",
+        "availableCashLimit": 6000,
+        "availableCreditLimit": 16930,
+        "cardNumber": "524167XXXXXX0040"
+      }
+    }
+  }
+}

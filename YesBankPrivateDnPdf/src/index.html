@@ -1,0 +1,49 @@
+<html>
+<head>
+    <title>YES BANK</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="cache-control" content="no-cache"/>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="Expires" content=-1"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://ccstatement.yesbank.in/AppList/Common/bootstrap.min.css">
+    <link rel="stylesheet" href="https://ccstatement.yesbank.in/AppList/Private/appPrivate.css" type="text/css" media="screen,print">
+</head>
+<body>
+<script type="text/javascript" src="https://ccstatement.yesbank.in/AppList/Common/jquery.min.js"></script>
+
+
+<script>
+    try {
+        if (top.location.hostname != self.location.hostname) throw 1;
+    } catch (e) {
+        top.location.href = self.location.href;
+    }
+
+    if (self == top) {
+        var theBody = document.getElementsByTagName('body')[0]
+        theBody.style.display = "block"
+    } else {
+
+        top.location = self.location
+    }
+
+</script>
+<script language="javascript">
+    window.content = {
+        encryptedData: "{EncodedContentInBase64}",
+        dataLength: "{EncodedContentLength}",
+        signature: "{EncodedContentSignatureInBase64}",
+        pepper: "{PepperEncodingString}",
+        iv: "{IVEncodingString}"
+    };
+
+</script>
+
+    <div id="app"></div>
+    <!-- js -->
+   <!-- css -->
+
+</body>
+</html>
+
